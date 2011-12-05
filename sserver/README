@@ -1,0 +1,1 @@
+This example doesn't allow concurrency, only one connection can be handled at a time.
